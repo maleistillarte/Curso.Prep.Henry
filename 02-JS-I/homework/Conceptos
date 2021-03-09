@@ -1,0 +1,14 @@
+* Variables: las variables las usamos para guardar valores, o datos y ser usados despues, estas se pueden reestablecer mas adelante.
+se pueden bautizar vriables de diferentes maneras:
+var NombreDeLaVariable
+let = NombreDeLaVariable
+const NombreDeLaVariable --> estas no se pueden cambiar nunca.
+
+* Strings: los string son una cadena de caracteres y se escriben usando comillas, al hacer esto estamos hablando de un string 'hola'; '34twdhoi21e8923'
+
+* Funciones (argumentos, `return`): las funciones u objetos invocables se usan para cambiar ejecutar una porcion de codigo varias veces sin errores, en ellas usamos a las variables y las renombramos o cambiamos dentro de las funciones.
+los argumentos los pasamos en los parentesis dentro de la funcion, y es lo que tiene que ejecutar la misma.
+returns: la declaracion return devuelve lo esperado y detiene la funcion.
+* Declaraciones `if`
+e utilizan para verificar si algo es true o false, y se ejecute el codigo segun se lo indiquemos, la funcion se detendra o devolvera false.
+* Valores booleanos (`true`, `false`) los valores booleanos nos dan como respues un si o un no, por ejemplo 3 es menor que 5, si.
